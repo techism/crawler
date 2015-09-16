@@ -1,0 +1,4 @@
+db: techism-events.sqlite
+url: https://www.techism.de/api/events/
+user: user
+password: secret

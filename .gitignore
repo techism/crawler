@@ -1,0 +1,9 @@
+aggregator/config.yaml
+venv/
+venv-deploy/
+*.pyc
+*.sqlite
+.project
+.pydevproject
+.settings
+*.*~
