@@ -6,7 +6,7 @@ import random
 
 
 def crawl(line):
-    cmd1 = "python crawlers/%s > tmp/crawler.result" % line
+    cmd1 = "python crawlers/%s tmp/crawler.result" % line
     print(cmd1)
     os.system(cmd1)
     cmd2 = "cat tmp/crawler.result | python aggregator/aggregator.py aggregator/config.yaml"
