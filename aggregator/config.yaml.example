@@ -1,4 +1,4 @@
-db: techism-events.sqlite
+db: aggregator/aggregator.sqlite
 url: https://www.techism.de/api/events/
 user: user
 password: secret
