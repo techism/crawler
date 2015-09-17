@@ -16,12 +16,12 @@
 #meetup-ical.py OpenHack-Munich code,hack
 #meetup-ical.py owncloud-munich owncloud
 #meetup-ical.py Munchen-Semantic-Web-Meetup semantic
-#meetup-ical.py The-Hacking-Room-Project-Munich maker,hackerspace
+#meetup-ical.py The-Hacking-Room-Project-Munich maker,hackerspace "MuMaLab: "
 #meetup-ical.py MOOC-Stammtisch-Munich elearning
 #meetup-ical.py 3DHubs-Munchen 3dprinter,maker
 #meetup-ical.py Munchen-Arduino-Meetup arduino,microcontroller
 #meetup-ical.py Coding-Dojo-Munich codingdojo
-#meetup-ical.py Munich-Gophers-Go-User-Group go
+#meetup-ical.py Munich-Gophers-Go-User-Group go "Go Group: "
 #meetup-ical.py Gutefrage-IT-Drinkup drinkup
 #meetup-ical.py Meteor-Munich meteor,javascript
 #meetup-ical.py MUC-SEC security
@@ -46,4 +46,6 @@
 #meetup-ical.py Software-Performance-Meetup-Group performance
 #meetup-ical.py Ember-js-Munich emberjs,javascript
 #meetup-ical.py munich-useR-group r
+#meetup-ical.py Munchner-Monitoring-Stammtisch monitoring
+#dotnetug.py
 

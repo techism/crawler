@@ -3,6 +3,7 @@ import json
 import yaml
 import sqlite3
 import requests
+import datetime
 from requests.auth import HTTPBasicAuth
 
 
@@ -27,6 +28,12 @@ def post(event):
         print("Error: status code=%s, text=%s" % (response.status_code, response.text))
         return None
 
+def out_of_range(event):
+    begin = datetime.datetime.strptime(event["date_time_begin"], "%Y-%m-%d %H:%M")
+    today = datetime.datetime.now()
+    four_weeks = datetime.timedelta(weeks = 2)
+    return begin < today or begin > today + four_weeks
+
 configfile = sys.argv[1]
 config = yaml.safe_load(open(configfile))
 url = config['url']
@@ -42,6 +49,9 @@ cursor.execute('''create table if not exists events
 
 for line in sys.stdin:
     event = json.loads(line)
+    if out_of_range(event):
+        print("Skipping event, out of range")
+        continue
     ext_id = event['_ext_id']
     techism_id = get_techism_id(ext_id)
     if techism_id:
