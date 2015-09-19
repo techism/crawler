@@ -47,6 +47,8 @@
 #meetup-ical.py Ember-js-Munich emberjs,javascript
 #meetup-ical.py munich-useR-group r
 #meetup-ical.py Munchner-Monitoring-Stammtisch monitoring
+#meetup-ical.py Munchen-Python-Data python,plone
+#generic-ical.py http://www.jug-muenchen.de/termine.raw?type=ical joomla,cms,php
 #dotnetug.py
 #regex.py crawlers/ffmuc.yaml
 #regex.py crawlers/agiletuesday.yaml

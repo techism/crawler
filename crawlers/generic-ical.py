@@ -1,8 +1,7 @@
 import sys
 import ical
 
-meetup_id = sys.argv[1]
-url = "http://www.meetup.com/%s/events/ical/" % meetup_id
+url = sys.argv[1]
 tags = sys.argv[2].split(",")
 if len(sys.argv) == 4:
     prefix = ""
