@@ -48,8 +48,12 @@
 #meetup-ical.py munich-useR-group r
 #meetup-ical.py Munchner-Monitoring-Stammtisch monitoring
 #meetup-ical.py Munchen-Python-Data python,plone
+#meetup-ical.py Munich-Rubyshift-Ruby-User-Group ruby,rails
+#meetup-ical.py Software-Craftsmanship-Meetup-Softwerkskammer-Munchen tdd,cleancode
 #generic-ical.py http://www.jug-muenchen.de/termine.raw?type=ical joomla,cms,php
+#generic-ical.py https://groups.drupal.org/ical/169 drupal,cms,php
 #dotnetug.py
 #regex.py crawlers/ffmuc.yaml
 #regex.py crawlers/agiletuesday.yaml
+#regex.py crawlers/owasp.yaml
 

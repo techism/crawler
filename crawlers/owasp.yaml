@@ -1,0 +1,5 @@
+title: OWASP
+url: https://www.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/M%C3%BCnchen
+regex: '.*OWASP-Stammtisch, am.*?.*?(?P<day>\d+)\.(?P<month>\d+)\.(?P<year>\d+), um (?P<hour>\d+):(?P<minute>\d+) Uhr(.*?\s)*?.*?Vortrag: (?P<title>.*?)</.*'
+tags: [owasp,security]
+
