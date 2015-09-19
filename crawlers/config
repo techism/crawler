@@ -48,4 +48,6 @@
 #meetup-ical.py munich-useR-group r
 #meetup-ical.py Munchner-Monitoring-Stammtisch monitoring
 #dotnetug.py
+#regex.py crawlers/ffmuc.yaml
+#regex.py crawlers/agiletuesday.yaml
 

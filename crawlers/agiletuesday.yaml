@@ -1,0 +1,7 @@
+title: Agile Tuesday
+url: http://agiletuesday.org/content/wo-und-wann
+tags: [agile]
+hour: '18'
+minute: '30'
+regex: .*<tr><td>.*</td>\s*<td>(?P<day>\d+)\.(?P<month>\d+)\.(?P<year>\d+)</td>\s*<td>(?P<title>.*)</td>
+

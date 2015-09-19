@@ -1,0 +1,5 @@
+title: Freifunk München
+url: https://ffmuc.net/
+regex: .*Treffen findet am .*?(?P<day>\d+)\. (?P<month>\w+) (?P<year>\d+) um (?P<hour>\d+):(?P<minute>\d+) Uhr.* statt.*
+tags: [freifunk]
+
