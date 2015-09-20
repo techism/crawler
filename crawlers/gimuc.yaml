@@ -1,0 +1,5 @@
+title: Gesellschaft für Informatik
+url: http://rg-muenchen.gi.de/veranstaltungen
+regex: .*date-display-single.*?(?P<year>\d+)-(?P<month>\d+)-(?P<day>\d+)T(?P<hour>\d+):(?P<minute>\d+):\d+(.*?\s)*?.*?titel-in-liste.*?<a.*?>(?P<title>.*?)</a>.*
+tags: [informatik]
+

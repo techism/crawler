@@ -8,17 +8,25 @@ cet = pytz_timezone("Europe/Berlin")
 
 month_names = {
     u'Januar':1,
+    u'January':1,
     u'Februar':2,
+    u'February':2,
     u'März':3,
+    u'March':3,
     u'April':4,
     u'Mai':5,
+    u'May':5,
     u'Juni':6,
+    u'June':6,
     u'Juli':7,
+    u'July':7,
     u'August':8,
     u'September':9,
     u'Oktober':10,
+    u'October':10,
     u'November':11,
     u'Dezember':12,
+    u'December':12,
 }
 
 def month_name_to_num(month):

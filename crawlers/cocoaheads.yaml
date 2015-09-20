@@ -1,0 +1,5 @@
+title: CocoaHeads Munich
+url: http://cocoaheads.org/de/Munich/
+regex: .*<p>.*? (?P<month>\w+) (?P<day>\d+), (?P<year>\d+) (?P<hour>\d+):(?P<minute>\d+) .*?</p>
+tags: [mac,osx,ios]
+
