@@ -58,4 +58,5 @@
 #regex.py crawlers/owasp.yaml
 #regex.py crawlers/cocoaheads.yaml
 #regex.py crawlers/gimuc.yaml
+#regex.py crawlers/lugmuc.yaml
 

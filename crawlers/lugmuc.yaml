@@ -1,0 +1,7 @@
+title: Linux Stammtisch
+url: http://www.muc-lug.de/html/termine.html
+hour: '19'
+minute: '30'
+regex: .*?<BR><B>(?P<day>\d+)\.(?P<month>\d+)\.(?P<year>\d+)</B>.*?
+tags: [linux]
+
