@@ -1,62 +1,62 @@
-#meetup-ical.py Lightweight-Java-User-Group-Munchen java
-#meetup-ical.py Agile-Testing-Munich testing
-#meetup-ical.py AngularJS-Munich javascript,angularjs
-#meetup-ical.py Munich-Datageeks data,machine_learning 
-#meetup-ical.py Docker-Munich docker
-#meetup-ical.py graphdb-munich graph,nosql
-#meetup-ical.py IoTMunich iot
-#meetup-ical.py Bitcoin-Munchen bitcoin
-#meetup-ical.py CloudUG-Munich cloud
-#meetup-ical.py code-for-muenchen opendata
-#meetup-ical.py Linux-Low-Level-Programming linux
-#meetup-ical.py MU-MUC mobile
-#meetup-ical.py MUCplusplus cpp
-#meetup-ical.py Mobile-Dev-Munich mobile
-#meetup-ical.py Munich-NoSQL-Meetup nosql
-#meetup-ical.py OpenHack-Munich code,hack
-#meetup-ical.py owncloud-munich owncloud
-#meetup-ical.py Munchen-Semantic-Web-Meetup semantic
-#meetup-ical.py The-Hacking-Room-Project-Munich maker,hackerspace "MuMaLab: "
-#meetup-ical.py MOOC-Stammtisch-Munich elearning
-#meetup-ical.py 3DHubs-Munchen 3dprinter,maker
-#meetup-ical.py Munchen-Arduino-Meetup arduino,microcontroller
-#meetup-ical.py Coding-Dojo-Munich codingdojo
-#meetup-ical.py Munich-Gophers-Go-User-Group go "Go Group: "
-#meetup-ical.py Gutefrage-IT-Drinkup drinkup
-#meetup-ical.py Meteor-Munich meteor,javascript
-#meetup-ical.py MUC-SEC security
-#meetup-ical.py phpugmunich php
-#meetup-ical.py podcast-muc podcast
-#meetup-ical.py ScalaMuc scala
-#meetup-ical.py sfugmunich symfony,php,cms
-#meetup-ical.py UX-Munich ux,design
-#meetup-ical.py The-Munich-iOS-Developers-Meetup ios
-#meetup-ical.py Riak-Munchen riak,nosql
-#meetup-ical.py Munchen-Cassandra-Users cassandra,nosql
-#meetup-ical.py DevOpsMunich devops
-#meetup-ical.py Hadoop-User-Group-Munich hadoop
-#meetup-ical.py Munich-Lambda functional
-#meetup-ical.py Microservices-Meetup-Munich microservices
-#meetup-ical.py Muenchen-MongoDB-User-Group mongodb,nosql
-#meetup-ical.py munich-indie gamedev
-#meetup-ical.py Munich-Node-js-User-Group nodejs,javascript
-#meetup-ical.py MunichJS-User-Group javascript
-#meetup-ical.py Munchen-robotics-enthusiasts robotics
-#meetup-ical.py Search-Meetup-Munich search
-#meetup-ical.py Software-Performance-Meetup-Group performance
-#meetup-ical.py Ember-js-Munich emberjs,javascript
-#meetup-ical.py munich-useR-group r
-#meetup-ical.py Munchner-Monitoring-Stammtisch monitoring
-#meetup-ical.py Munchen-Python-Data python,plone
-#meetup-ical.py Munich-Rubyshift-Ruby-User-Group ruby,rails
-#meetup-ical.py Software-Craftsmanship-Meetup-Softwerkskammer-Munchen tdd,cleancode
-#generic-ical.py http://www.jug-muenchen.de/termine.raw?type=ical joomla,cms,php
-#generic-ical.py https://groups.drupal.org/ical/169 drupal,cms,php
-#dotnetug.py
-#regex.py crawlers/ffmuc.yaml
-#regex.py crawlers/agiletuesday.yaml
-#regex.py crawlers/owasp.yaml
-#regex.py crawlers/cocoaheads.yaml
-#regex.py crawlers/gimuc.yaml
-#regex.py crawlers/lugmuc.yaml
+meetup-ical.py Lightweight-Java-User-Group-Munchen java
+meetup-ical.py Agile-Testing-Munich testing
+meetup-ical.py AngularJS-Munich javascript,angularjs
+meetup-ical.py Munich-Datageeks data,machine_learning
+meetup-ical.py Docker-Munich docker
+meetup-ical.py graphdb-munich graph,nosql
+meetup-ical.py IoTMunich iot
+meetup-ical.py Bitcoin-Munchen bitcoin
+meetup-ical.py CloudUG-Munich cloud
+meetup-ical.py code-for-muenchen opendata
+meetup-ical.py Linux-Low-Level-Programming linux
+meetup-ical.py MU-MUC mobile
+meetup-ical.py MUCplusplus cpp
+meetup-ical.py Mobile-Dev-Munich mobile
+meetup-ical.py Munich-NoSQL-Meetup nosql
+meetup-ical.py OpenHack-Munich code,hack
+meetup-ical.py owncloud-munich owncloud
+meetup-ical.py Munchen-Semantic-Web-Meetup semantic
+meetup-ical.py The-Hacking-Room-Project-Munich maker,hackerspace "MuMaLab: "
+meetup-ical.py MOOC-Stammtisch-Munich elearning
+meetup-ical.py 3DHubs-Munchen 3dprinter,maker
+meetup-ical.py Munchen-Arduino-Meetup arduino,microcontroller
+meetup-ical.py Coding-Dojo-Munich codingdojo
+meetup-ical.py Munich-Gophers-Go-User-Group go "Go Group: "
+meetup-ical.py Gutefrage-IT-Drinkup drinkup
+meetup-ical.py Meteor-Munich meteor,javascript
+meetup-ical.py MUC-SEC security
+meetup-ical.py phpugmunich php
+meetup-ical.py podcast-muc podcast
+meetup-ical.py ScalaMuc scala
+meetup-ical.py sfugmunich symfony,php,cms
+meetup-ical.py UX-Munich ux,design
+meetup-ical.py The-Munich-iOS-Developers-Meetup ios
+meetup-ical.py Riak-Munchen riak,nosql
+meetup-ical.py Munchen-Cassandra-Users cassandra,nosql
+meetup-ical.py DevOpsMunich devops
+meetup-ical.py Hadoop-User-Group-Munich hadoop
+meetup-ical.py Munich-Lambda functional
+meetup-ical.py Microservices-Meetup-Munich microservices
+meetup-ical.py Muenchen-MongoDB-User-Group mongodb,nosql
+meetup-ical.py munich-indie gamedev
+meetup-ical.py Munich-Node-js-User-Group nodejs,javascript
+meetup-ical.py MunichJS-User-Group javascript
+meetup-ical.py Munchen-robotics-enthusiasts robotics
+meetup-ical.py Search-Meetup-Munich search
+meetup-ical.py Software-Performance-Meetup-Group performance
+meetup-ical.py Ember-js-Munich emberjs,javascript
+meetup-ical.py munich-useR-group r
+meetup-ical.py Munchner-Monitoring-Stammtisch monitoring
+meetup-ical.py Munchen-Python-Data python,plone
+meetup-ical.py Munich-Rubyshift-Ruby-User-Group ruby,rails
+meetup-ical.py Software-Craftsmanship-Meetup-Softwerkskammer-Munchen tdd,cleancode
+generic-ical.py http://www.jug-muenchen.de/termine.raw?type=ical joomla,cms,php
+generic-ical.py https://groups.drupal.org/ical/169 drupal,cms,php
+dotnetug.py
+regex.py crawlers/ffmuc.yaml
+regex.py crawlers/agiletuesday.yaml
+regex.py crawlers/owasp.yaml
+regex.py crawlers/cocoaheads.yaml
+regex.py crawlers/gimuc.yaml
+regex.py crawlers/lugmuc.yaml
 
