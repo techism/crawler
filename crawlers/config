@@ -50,6 +50,20 @@ meetup-ical.py Munchner-Monitoring-Stammtisch monitoring
 meetup-ical.py Munchen-Python-Data python,plone
 meetup-ical.py Munich-Rubyshift-Ruby-User-Group ruby,rails
 meetup-ical.py Software-Craftsmanship-Meetup-Softwerkskammer-Munchen tdd,cleancode
+meetup-ical.py Munchen-Phalcon-PHP-Meetup php
+meetup-ical.py JS-Coding-Nights-Munich javascript
+meetup-ical.py BitShares-Munich bitcoin 
+meetup-ical.py AgileMunich agile
+meetup-ical.py ReactJS-Usergroup-Munich javascript
+meetup-ical.py CloudFoundry-Munich microservices
+meetup-ical.py Ansible-Munchen ansible,devops
+meetup-ical.py AWS-Munich cloud,iaas
+meetup-ical.py IT-Fuckup-Munich fail
+meetup-ical.py gdg-munich google
+meetup-ical.py rust-munich rust
+meetup-ical.py JavaScript-The-Language javascript
+meetup-ical.py Papers-We-Love-Munich papers
+meetup-ical.py Vim-Munich vim
 generic-ical.py http://www.jug-muenchen.de/termine.raw?type=ical joomla,cms,php
 generic-ical.py https://groups.drupal.org/ical/169 drupal,cms,php
 dotnetug.py
