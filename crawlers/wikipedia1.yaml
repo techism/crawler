@@ -1,0 +1,7 @@
+title: Wikipedia
+url: https://de.wikipedia.org/wiki/Wikipedia:M%C3%BCnchen
+hour: '19'
+minute: '00'
+regex: .*?chstes(.*?\s)*?.*?Treffen(.*?\s)*?.*?(?P<day>\d+)\.(?P<month>\d+)\.</div>(.*?\s)*?.*?(?P<year>\d+)</div>.*?
+tags: [wikipedia]
+

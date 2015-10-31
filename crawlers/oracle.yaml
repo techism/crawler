@@ -1,0 +1,7 @@
+title: DOAG
+url: http://www.doag.org/de/events/regionaltreffen/muenchensuedbayern.html
+hour: '17'
+minute: '30'
+regex: .*<td.*>(?P<day>\d+)\.(?P<month>\d+)\.(?P<year>\d+)</td>(.*?\s)*?.*?<a.*>(?P<title>.*)</a>.*
+tags: [oracle]
+

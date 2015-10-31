@@ -1,0 +1,6 @@
+title: TEX Stammtisch
+url: http://www.siart.de/typografie/stammtisch.xhtml
+minute: '00'
+regex: .*?chster Termin.* (?P<day>\d+)\.( |\&nbsp;)(?P<month>\w+) (?P<year>\d+), (?P<hour>\d+) Uhr.*?
+tags: [tex]
+

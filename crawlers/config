@@ -64,6 +64,7 @@ meetup-ical.py rust-munich rust
 meetup-ical.py JavaScript-The-Language javascript
 meetup-ical.py Papers-We-Love-Munich papers
 meetup-ical.py Vim-Munich vim
+meetup-ical.py Crypto-Munich security,crypto
 generic-ical.py http://www.jug-muenchen.de/termine.raw?type=ical joomla,cms,php
 generic-ical.py https://groups.drupal.org/ical/169 drupal,cms,php
 dotnetug.py
@@ -73,4 +74,12 @@ regex.py crawlers/owasp.yaml
 regex.py crawlers/cocoaheads.yaml
 regex.py crawlers/gimuc.yaml
 regex.py crawlers/lugmuc.yaml
+regex.py crawlers/wikipedia1.yaml
+regex.py crawlers/wikipedia2.yaml
+regex.py crawlers/osm1.yaml
+regex.py crawlers/osm2.yaml
+regex.py crawlers/ubuntu.yaml
+regex.py crawlers/tex.yaml
+regex.py crawlers/oracle.yaml
+regex.py crawlers/opensourcetreffen.yaml
 

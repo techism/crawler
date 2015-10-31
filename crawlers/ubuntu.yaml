@@ -1,0 +1,7 @@
+title: Munich Linux Night
+url: http://wiki.ubuntuusers.de/Anwendertreffen/M%C3%BCnchen
+hour: '18'
+minute: '00'
+regex: .*Treffen.* (?P<day>\d+)\. (?P<month>\w+) (?P<year>\d+) ab (?P<hour>\d+).* Uhr.*
+tags: [linux,ubuntu]
+

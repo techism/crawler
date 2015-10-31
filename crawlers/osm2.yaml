@@ -1,0 +1,7 @@
+title: OpenStreetMap
+url: http://wiki.openstreetmap.org/wiki/M%C3%BCnchen
+hour: '19'
+minute: '00'
+regex: .*?Termine (?P<year>\d+):(.*?\s)*?.*?<li>.*</li>(.*?\s)*?.*?<li>.* (?P<day>\d+)\. (?P<month>\w+)</li>(.*?\s)*?.*?
+tags: [openstreetmap]
+
