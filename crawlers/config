@@ -68,6 +68,13 @@ meetup-ical.py Crypto-Munich security,crypto
 meetup-ical.py Big-Data-Munich bigdata
 meetup-ical.py inovex-munich technology
 meetup-ical.py Apache-Flink-Meetup-Munich bigdata
+meetup-ical.py ThoughtWorks-Munich technology
+meetup-ical.py Munchen-WordPress-Meetup php,cms
+meetup-ical.py Hacks-Hackers-Munchen hack
+meetup-ical.py Munich-NixOS-Meetup linux,nixos
+meetup-ical.py OpenStack-Munich openstack
+meetup-ical.py Atlassian-User-Group-Munchen atlassian,jira,confluence
+meetup-ical.py JavaScript-CodeRetreat javascript
 generic-ical.py http://www.jug-muenchen.de/termine.raw?type=ical joomla,cms,php
 generic-ical.py https://groups.drupal.org/ical/169 drupal,cms,php
 dotnetug.py
@@ -75,7 +82,7 @@ regex.py crawlers/ffmuc.yaml
 regex.py crawlers/agiletuesday.yaml
 regex.py crawlers/owasp.yaml
 regex.py crawlers/cocoaheads.yaml
-regex.py crawlers/gimuc.yaml
+#regex.py crawlers/gimuc.yaml
 regex.py crawlers/lugmuc.yaml
 regex.py crawlers/wikipedia1.yaml
 regex.py crawlers/wikipedia2.yaml
