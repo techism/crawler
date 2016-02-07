@@ -70,7 +70,7 @@ meetup-ical.py inovex-munich technology
 meetup-ical.py Apache-Flink-Meetup-Munich bigdata
 meetup-ical.py ThoughtWorks-Munich technology
 meetup-ical.py Munchen-WordPress-Meetup php,cms
-meetup-ical.py Hacks-Hackers-Munchen hack
+meetup-ical.py Hacks-Hackers-Munchen journalism
 meetup-ical.py Munich-NixOS-Meetup linux,nixos
 meetup-ical.py OpenStack-Munich openstack
 meetup-ical.py Atlassian-User-Group-Munchen atlassian,jira,confluence
@@ -78,6 +78,9 @@ meetup-ical.py JavaScript-CodeRetreat javascript
 meetup-ical.py Applied-R-Munich r,statistics,data,machine_learning
 meetup-ical.py Kotlin-User-Group-Munich kotlin,java
 meetup-ical.py OpenAI-Munchen artificial_intelligence,machine_learning
+meetup-ical.py MuniCSS-finest css,design
+meetup-ical.py laravel-munich php
+meetup-ical.py CoreOS-Munich docker
 generic-ical.py http://www.jug-muenchen.de/termine.raw?type=ical joomla,cms,php
 generic-ical.py https://groups.drupal.org/ical/169 drupal,cms,php
 dotnetug.py
