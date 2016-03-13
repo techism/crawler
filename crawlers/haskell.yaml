@@ -1,0 +1,7 @@
+title: Haskell Munich
+url: https://chneukirchen.github.io/haskell-munich.de/dates.html
+hour: '19'
+minute: '30'
+regex: .*<td.*>[A-Z][a-z][a-z], (?P<day>\d+) (?P<month>[A-Z][a-z][a-z]) (?P<year>\d+)</td>.*
+tags: [haskell]
+
