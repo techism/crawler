@@ -93,7 +93,7 @@ regex.py crawlers/owasp.yaml
 regex.py crawlers/cocoaheads.yaml
 regex.py crawlers/gimuc.yaml
 regex.py crawlers/lugmuc.yaml
-regex.py crawlers/wikipedia1.yaml
+#regex.py crawlers/wikipedia1.yaml
 #regex.py crawlers/wikipedia2.yaml
 regex.py crawlers/osm1.yaml
 regex.py crawlers/osm2.yaml
