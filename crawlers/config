@@ -84,6 +84,10 @@ meetup-ical.py CoreOS-Munich docker
 meetup-ical.py Spark-Munich spark,hadoop
 meetup-ical.py Linux-Stammtisch-Munchen linux
 meetup-ical.py stylight technology
+meetup-ical.py Munich-Perl-Mongers perl
+meetup-ical.py Munich-Frontend-Developers frontend,javascript,html
+meetup-ical.py Fail-Meetup fail
+meetup-ical.py GDG-Munich-Android android
 generic-ical.py http://www.jug-muenchen.de/termine.raw?type=ical joomla,cms,php
 generic-ical.py https://groups.drupal.org/ical/169 drupal,cms,php
 dotnetug.py
