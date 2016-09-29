@@ -1,7 +1,7 @@
 title: Open Source Treffen
-url: http://www.opensourcetreffen.de/?file=termine
+url: https://www.opensourcetreffen.de/
 hour: '18'
 minute: '00'
-regex: .*<li>.* (?P<day>\d+)\. (?P<month>\w+) (?P<year>\d+).*?</li>.*
+regex: .*<li>.* (?P<day>\d+)\. (?P<month>\w+) (?P<year>\d+).*
 tags: [open source]
 
