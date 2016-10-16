@@ -88,6 +88,7 @@ meetup-ical.py Munich-Perl-Mongers perl
 meetup-ical.py Munich-Frontend-Developers frontend,javascript,html
 meetup-ical.py Fail-Meetup fail
 meetup-ical.py GDG-Munich-Android android
+meetup-ical.py Software-Architektur-Muenchen architecture,design
 generic-ical.py http://www.jug-muenchen.de/termine.raw?type=ical joomla,cms,php
 generic-ical.py https://groups.drupal.org/ical/169 drupal,cms,php
 dotnetug.py
@@ -104,6 +105,6 @@ regex.py crawlers/osm2.yaml
 regex.py crawlers/ubuntu.yaml
 regex.py crawlers/tex.yaml
 regex.py crawlers/oracle.yaml
-regex.py crawlers/opensourcetreffen.yaml
+egex.py crawlers/opensourcetreffen.yaml
 regex.py crawlers/haskell.yaml
 
