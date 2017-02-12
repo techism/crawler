@@ -89,7 +89,10 @@ meetup-ical.py Munich-Frontend-Developers frontend,javascript,html
 meetup-ical.py Fail-Meetup fail
 meetup-ical.py GDG-Munich-Android android
 meetup-ical.py Software-Architektur-Muenchen architecture,design
+meetup-ical.py workshop-softwarearchitektur architecture,design
 meetup-ical.py Qt-Munich-Meetup qt,qml,cpp
+meetup-ical.py Munich-D-Programmers d,dlang
+meetup-ical.py Big-Data-Developers-in-Munich bigdata
 generic-ical.py http://www.jug-muenchen.de/termine.raw?type=ical joomla,cms,php
 generic-ical.py https://groups.drupal.org/ical/169 drupal,cms,php
 dotnetug.py
