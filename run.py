@@ -12,7 +12,7 @@ def crawl(line):
     cmd2 = "cat tmp/crawler.result | python aggregator/aggregator.py aggregator/config.yaml"
     print(cmd2)
     os.system(cmd2)
-    sleep(10)
+    sleep(5)
 
 lines = open("crawlers/config").read().splitlines()
 shuffle(lines)
