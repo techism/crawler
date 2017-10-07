@@ -94,6 +94,7 @@ meetup-ical.py Qt-Munich-Meetup qt,qml,cpp
 meetup-ical.py Munich-D-Programmers d,dlang
 meetup-ical.py Big-Data-Developers-in-Munich bigdata
 meetup-ical.py Munchen-Kubernetes-Meetup kubernetes,docker
+meetup-ical.py data-engineering-munich data,bigdata
 generic-ical.py http://www.jug-muenchen.de/termine.raw?type=ical joomla,cms,php
 generic-ical.py https://groups.drupal.org/ical/169 drupal,cms,php
 dotnetug.py
@@ -105,8 +106,8 @@ regex.py crawlers/gimuc.yaml
 regex.py crawlers/lugmuc.yaml
 #regex.py crawlers/wikipedia1.yaml
 #regex.py crawlers/wikipedia2.yaml
-regex.py crawlers/osm1.yaml
-regex.py crawlers/osm2.yaml
+#regex.py crawlers/osm1.yaml
+#regex.py crawlers/osm2.yaml
 regex.py crawlers/ubuntu.yaml
 regex.py crawlers/tex.yaml
 regex.py crawlers/oracle.yaml
