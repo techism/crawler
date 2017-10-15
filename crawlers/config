@@ -95,6 +95,14 @@ meetup-ical.py Munich-D-Programmers d,dlang
 meetup-ical.py Big-Data-Developers-in-Munich bigdata
 meetup-ical.py Munchen-Kubernetes-Meetup kubernetes,docker
 meetup-ical.py data-engineering-munich data,bigdata
+meetup-ical.py Amazon-Appsters-Munich amazon,alexa,aws
+meetup-ical.py devtalk-munich architecture,development
+meetup-ical.py GitHub-Events-Munich git,development
+meetup-ical.py Cloud-Security-Munich cloud,security
+meetup-ical.py Burda-Bootcamp development,hackathon
+meetup-ical.py Continuous-Delivery-Munich devops
+meetup-ical.py meetup-group-gSqnaIheh elm,javascript
+meetup-ical.py Munich-Clojurians clojure
 generic-ical.py http://www.jug-muenchen.de/termine.raw?type=ical joomla,cms,php
 generic-ical.py https://groups.drupal.org/ical/169 drupal,cms,php
 dotnetug.py
