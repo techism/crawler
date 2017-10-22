@@ -103,6 +103,7 @@ meetup-ical.py Burda-Bootcamp development,hackathon
 meetup-ical.py Continuous-Delivery-Munich devops
 meetup-ical.py meetup-group-gSqnaIheh elm,javascript
 meetup-ical.py Munich-Clojurians clojure
+meetup-ical.py Munchen-Fairphone-Meetup fairphone,android
 generic-ical.py http://www.jug-muenchen.de/termine.raw?type=ical joomla,cms,php
 generic-ical.py https://groups.drupal.org/ical/169 drupal,cms,php
 dotnetug.py
